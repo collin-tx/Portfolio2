@@ -1,2 +1,2 @@
 # Collin Miller Smith
-## web developer
+## web developer portfolio
